@@ -6001,11 +6001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chernandez\\Desktop\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3.csproj",
+      "projectUniqueName": "C:\\Users\\chernandez\\Desktop\\TestEndpointSafire\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3.csproj",
       "projectName": "TestEndpointAspNetCore3",
-      "projectPath": "C:\\Users\\chernandez\\Desktop\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3.csproj",
+      "projectPath": "C:\\Users\\chernandez\\Desktop\\TestEndpointSafire\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3.csproj",
       "packagesPath": "C:\\Users\\chernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chernandez\\Desktop\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3\\obj\\",
+      "outputPath": "C:\\Users\\chernandez\\Desktop\\TestEndpointSafire\\TestEndpointAspNetCore3\\TestEndpointAspNetCore3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

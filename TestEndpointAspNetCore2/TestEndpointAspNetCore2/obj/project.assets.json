@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chernandez\\Desktop\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2.csproj",
+      "projectUniqueName": "C:\\Users\\chernandez\\Desktop\\TestEndpointSafire\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2.csproj",
       "projectName": "TestEndpointAspNetCore2",
-      "projectPath": "C:\\Users\\chernandez\\Desktop\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2.csproj",
+      "projectPath": "C:\\Users\\chernandez\\Desktop\\TestEndpointSafire\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2.csproj",
       "packagesPath": "C:\\Users\\chernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chernandez\\Desktop\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2\\obj\\",
+      "outputPath": "C:\\Users\\chernandez\\Desktop\\TestEndpointSafire\\TestEndpointAspNetCore2\\TestEndpointAspNetCore2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -40,13 +40,15 @@ namespace TestEndpointAspNetCore2
                 app.UseDeveloperExceptionPage ();
             }
 
-            app.UseMvc ();
             app.UseCors ( options =>
-              {
-                  options.AllowAnyOrigin ();
-                  options.AllowAnyMethod ();
-                  options.AllowAnyHeader ();
-              } );
+            {
+                options.AllowAnyOrigin ();
+                options.AllowAnyMethod ();
+                options.AllowAnyHeader ();
+            } );
+
+            app.UseMvc ();
+            
         }
     }
 }
