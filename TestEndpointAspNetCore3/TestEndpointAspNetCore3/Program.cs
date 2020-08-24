@@ -32,7 +32,7 @@ namespace TestEndpointAspNetCore3
                         {
                             serverOptions.Listen ( IPAddress.Any , 7050 , listenOptions =>
                             {
-                                listenOptions.UseConnectionLogging ();
+                                //listenOptions.UseConnectionLogging ();
                             } );
                         } );
                       webBuilder.UseKestrel ();

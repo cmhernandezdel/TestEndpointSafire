@@ -184,3 +184,4 @@ C:\Users\chernandez\Desktop\TestEndpointSafire\TestEndpointAspNetCore3\TestEndpo
 C:\Users\chernandez\Desktop\TestEndpointSafire\TestEndpointAspNetCore3\TestEndpointAspNetCore3\obj\Debug\netcoreapp3.1\TestEndpointAspNetCore3.dll
 C:\Users\chernandez\Desktop\TestEndpointSafire\TestEndpointAspNetCore3\TestEndpointAspNetCore3\obj\Debug\netcoreapp3.1\TestEndpointAspNetCore3.pdb
 C:\Users\chernandez\Desktop\TestEndpointSafire\TestEndpointAspNetCore3\TestEndpointAspNetCore3\obj\Debug\netcoreapp3.1\TestEndpointAspNetCore3.genruntimeconfig.cache
+C:\Users\chernandez\Desktop\TestEndpointSafire\TestEndpointAspNetCore3\TestEndpointAspNetCore3\obj\Debug\netcoreapp3.1\TestEndpointAspNetCore3.csproj.CoreCompileInputs.cache
